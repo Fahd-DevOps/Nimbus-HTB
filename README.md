@@ -1,1 +1,1 @@
-## 🌩️ HackTheBox — Nimbus
+## 🌩️ HackTheBox — Nimbus Writeup
